@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Numbers
+comment0.text=\r\n\ \r\n\ Klasse\ zur\ Berechnung\ verschiedener\ Zahlen\r\n\ Portfoliopruefung\ 1\ -\ Aufgabenteile\ Zahlen\ I\ und\ Zahlen\ II\r\n\ \r\n\ @author\ Ole\ Reichhelm,\ Niklas\ Held\r\n\ @version\ 1.0\r\n
+comment1.params=n
+comment1.target=long\ fibonacciR(long)
+comment1.text=\r\n\ Errechnung\ der\ Fibonacci-Zahl\ mit\ Rekursion\ \r\n\ fibonacciR(63)\ \=\ 6557470319842\r\n
+comment2.params=n
+comment2.target=long\ fibonacciS(int)
+comment2.text=\r\n\ Errechnung\ der\ Fibonacci-Zahl\ mit\ Schleife\ \r\n\ fibonacciS(63)\ \=\ 6557470319842\r\n
+comment3.params=n
+comment3.target=java.lang.String\ roman(int)
+comment3.text=\r\n\ Errechnung\ einer\ r\u00F6mischen\ Zahl\ aus\ einer\ Dezimalzahl\r\n
+comment4.params=n\ smallString\ middleString\ largeString
+comment4.target=java.lang.String\ romanHelp(int,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment4.text=\r\n\ Hilfsfunktion\ f\u00FCr\ das\ Errechnen\ eines\ Zahlensegments\r\n
+numComments=5
